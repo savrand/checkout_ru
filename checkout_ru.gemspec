@@ -1,15 +1,15 @@
 # coding: utf-8
 lib = File.expand_path('../lib', __FILE__)
 $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
-require 'checkoutru/version'
+require 'checkout_ru/version'
 
 Gem::Specification.new do |spec|
-  spec.name          = "checkoutru"
+  spec.name          = "checkout_ru"
   spec.version       = CheckoutRu::VERSION
   spec.authors       = ["dmitriy.savran"]
   spec.email         = ["dmitriy.savran@faceit.com.ua"]
-  spec.description   = ""
-  spec.summary       = ""
+  spec.description   = %q{la}
+  spec.summary       = %q{lala}
   spec.homepage      = ""
   spec.license       = "MIT"
 
