@@ -1,4 +1,4 @@
-require "checkout_ru/version"
+require "checkoutru/version"
 
 module CheckoutRu
   # Your code goes here...
